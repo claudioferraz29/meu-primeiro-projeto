@@ -1,14 +1,7 @@
-# Meu Primeiro Projeto
+# Meu Primeiro Projeto no GitHub
 
-Este é meu primeiro repositório no GitHub!  
-Aqui vou aprender passo a passo como utilizar a plataforma de forma profissional.
+Este é o meu primeiro projeto criado no GitHub!  
+Estou aprendendo com calma, passo a passo, para dominar de verdade essa ferramenta incrível.
 
-## Sobre mim
+Autor: Claudio Ferraz  
 
-👨‍💻 Nome: Claudio Ferraz  
-📍 Localização: Guarulhos-SP  
-🎯 Objetivo: Me especializar em Python, GitHub e atuar na área de tecnologia.
-
----
-
-Mais por vir em breve...
